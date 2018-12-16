@@ -1,0 +1,38 @@
+@import url("global.css");
+
+.b_left {
+		background: #DDD;
+		width: 25%;
+		height:50%;
+		overflow-y: auto;
+	}
+	
+	.b_left span {
+		display: block;
+		padding: 10px 15px;
+		border: #CCC 1px solid;
+	}
+	
+	.b_left span:hover {
+	
+		background: #fff;
+	}
+	
+	.b_r {
+		width: 75%;
+	}
+	
+	.b_r div.it01 {
+    width: 33%;
+    float: left;
+    height: 139px;
+}
+	
+	.b_r div img {
+		width: 100%;
+		padding:10px;
+
+	}
+	html{
+		font-size:62.5%;
+	}

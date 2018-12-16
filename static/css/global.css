@@ -1,0 +1,48 @@
+li {
+	list-style: none;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right
+}
+
+.pt10 {
+	padding-top: 10px;
+	display: inline-block;
+}
+
+.max_width {
+	max-width: 640px;
+}
+
+.clearfix:after {
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.wth50 {
+	width: 50%;
+}
+
+.color_red {
+	color: #FF1111;
+}
+
+.padl10 {
+	padding-left: 10px;
+}
+
+.padr10 {
+	padding-right: 10px;
+}
+
+.del {
+	margin: 0 auto;
+	overflow-x: hidden;
+}
